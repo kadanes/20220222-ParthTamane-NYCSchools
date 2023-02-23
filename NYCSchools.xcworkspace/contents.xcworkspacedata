@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:soda-swift/soda-swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NYCSchools/NYCSchools.xcodeproj">
+   </FileRef>
+</Workspace>
